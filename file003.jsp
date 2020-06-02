@@ -1,0 +1,2 @@
+shinkinbank
+SSC用金庫ユーザ」
