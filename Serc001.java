@@ -5,6 +5,7 @@ import java.io.Serializable;
  *
  * [クラス名]
  * 信金フレ
+ * 信金!フレ
  *  信金フレームワーク専用定数クラス
 
  */
